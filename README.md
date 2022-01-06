@@ -9,4 +9,4 @@
 ### Architecture/Design
 * It contains 5 convolutional layers, with 3 max pooling layers and 3 fully connected layers.<br />
 * Along with these layers it also contains Dropout layers and the local response normalization layer.<br />
-![alt text](https://github.com/ND15/CNN_Architectures/blob/main/imgs/AlexNet%20Architecture.png)
+![alt text](https://github.com/ND15/CNN_Architectures/blob/main/imgs/AlexNet%20Architecture.jpg)
